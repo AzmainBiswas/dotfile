@@ -1,0 +1,629 @@
+﻿# For documentation, see https://www.sumatrapdfreader.org/settings/settings3-4-6.html
+FixedPageUI [
+	TextColor = #ffffff
+	BackgroundColor = #232136
+	SelectionColor = #f5fc0c
+	WindowMargin = 0 0 0 0
+	PageSpacing = 4 4
+	HideScrollbars = false
+]
+ComicBookUI [
+	WindowMargin = 0 0 0 0
+	PageSpacing = 4 4
+	CbxMangaMode = false
+]
+ChmUI [
+	UseFixedPageUI = false
+]
+
+SelectionHandlers [
+]
+ExternalViewers [
+]
+
+ZoomLevels = 8.33 12.5 18 25 33.33 50 66.67 75 100 125 150 200 300 400 600 800 1000 1200 1600 2000 2400 3200 4800 6400
+ZoomIncrement = 0
+
+PrinterDefaults [
+	PrintScale = shrink
+]
+ForwardSearch [
+	HighlightOffset = 0
+	HighlightWidth = 15
+	HighlightColor = #6581ff
+	HighlightPermanent = false
+]
+Annotations [
+	HighlightColor = #ffff00
+	UnderlineColor = #00ff00
+	TextIconColor = #ffff00
+	TextIconType = 
+	DefaultAuthor = 
+]
+
+RememberOpenedFiles = true
+RememberStatePerDocument = true
+RestoreSession = true
+UiLanguage = en
+InverseSearchCmdLine = "C:\Users\Azmain\AppData\Local\Programs\Microsoft VS Code\Code.exe" "C:\Users\Azmain\AppData\Local\Programs\Microsoft VS Code\resources\app\out\cli.js" --ms-enable-electron-run-as-node -r -g "%f:%l"
+EnableTeXEnhancements = true
+DefaultDisplayMode = automatic
+DefaultZoom = fit page
+Shortcuts [
+	[
+		Cmd = CmdScrollUpPage
+		Key = u
+	]
+	[
+		Cmd = CmdScrollDownPage
+		Key = d
+	]
+	[
+		Cmd = CmdOpenWithAcrobat
+		Key = Ctrl + A
+	]
+]
+EscToExit = false
+ReuseInstance = true
+ReloadModifiedDocuments = true
+
+MainWindowBackground = #1c2330
+FullPathInTitle = false
+ShowMenubar = true
+ShowToolbar = false
+ShowFavorites = false
+ShowToc = false
+TocDy = 0
+SidebarDx = 0
+ToolbarSize = 18
+TabWidth = 200
+TreeFontSize = 0
+SmoothScroll = true
+ShowStartPage = true
+CheckForUpdates = true
+WindowState = 1
+WindowPos = 1253 0 675 1038
+UseTabs = true
+UseSysColors = false
+CustomScreenDPI = 0
+
+FileStates [
+	[
+		FilePath = D:\Note\Mathematical_analysis\Function_of_severable_variable\main.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 13
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = 22.0498 612.42
+		PageNo = 2
+		Zoom = 66.67
+		Rotation = 0
+		WindowState = 1
+		WindowPos = 1253 0 675 1038
+		ShowToc = false
+		SidebarDx = 0
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = D:\Note\Latex\page\page.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 2
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -0.23952 128.88
+		PageNo = 2
+		Zoom = 125
+		Rotation = 0
+		WindowState = 1
+		WindowPos = 554 6 1263 1020
+		ShowToc = false
+		SidebarDx = 0
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = D:\Book\Calculus\Ross_analysis.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 1
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 229.68
+		PageNo = 11
+		Zoom = 125
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 511 -14 721 1030
+		ShowToc = false
+		SidebarDx = 0
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = D:\Book\Calculus\Rudin W. - Real and complex analysis-MGH (1970).djvu
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 755.274
+		PageNo = 166
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 511 -14 721 1030
+		ShowToc = false
+		SidebarDx = 0
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = D:\Book\Calculus\Riemann integration.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 646.892
+		PageNo = 35
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 212 -16 1252 1030
+		ShowToc = false
+		SidebarDx = 0
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = D:\Book\Calculus\Tom M. Apostol - Mathematical Analysis.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 191.419
+		PageNo = 10
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 212 -16 1252 1030
+		ShowToc = false
+		SidebarDx = 0
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = D:\Book\Calculus\real-analysis-nowak-part-2 AMS.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 359.8
+		PageNo = 8
+		Zoom = 150
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 212 -16 1252 1030
+		ShowToc = false
+		SidebarDx = 0
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = D:\Book\Calculus\Integral Calculus Formula Sheet_0.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 425.334
+		PageNo = 2
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 212 -16 1252 1030
+		ShowToc = false
+		SidebarDx = 0
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = D:\Book\Calculus\Infinite Seris MIT.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -0.356043
+		PageNo = 33
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 212 -16 1252 1030
+		ShowToc = false
+		SidebarDx = 0
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = D:\Book\Calculus\Calculus-Book-Thomas-Finney.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 579.301
+		PageNo = 27
+		Zoom = 100
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 212 -16 1252 1030
+		ShowToc = false
+		SidebarDx = 0
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\Azmain\Desktop\text.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = 3.60048 2.16048
+		PageNo = 1
+		Zoom = 125
+		Rotation = 0
+		WindowState = 1
+		WindowPos = 572 30 1257 1030
+		ShowToc = false
+		SidebarDx = 0
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\Azmain\Desktop\~\0101032210018155.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 103.501
+		PageNo = 1
+		Zoom = 100
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 499 -9 644 1002
+		ShowToc = false
+		SidebarDx = 0
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = D:\Book\IIEST Shibpur\1st sem\mathematical analysis\Mathematical Analysis(Merged).pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 240.901
+		PageNo = 2
+		Zoom = 100
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 302 85 1615 1080
+		ShowToc = false
+		SidebarDx = 0
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = D:\Book\IIEST Shibpur\1st sem\mathematical analysis\Rudin W. - Real and complex analysis-MGH (1970).pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 447.5
+		PageNo = 54
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 302 85 1615 1080
+		ShowToc = false
+		SidebarDx = 0
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = D:\Book\Algrbra\Stephen H. Friedberg, Arnold J. Insel, Lawrence E. Spence - Linear algebra-Prentice Hall (1989).djvu
+		Favorites [
+			[
+				Name = Diagonalization
+				PageNo = 228
+			]
+			[
+				Name = Canonical Forms
+				PageNo = 430
+			]
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 3
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 3296.25
+		PageNo = 229
+		Zoom = 100
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 302 85 1615 1080
+		ShowToc = false
+		SidebarDx = 0
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = D:\Book\Algrbra\Kenneth M Hoffman, Ray Kunze - Linear Algebra -Prentice Hall (1971).pdf
+		Favorites [
+			[
+				Name = Elementary Canonical Forms
+				PageNo = 189
+			]
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 3
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 158.2
+		PageNo = 189
+		Zoom = 150
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 302 85 1615 1080
+		ShowToc = false
+		SidebarDx = 0
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = D:\Book\Algrbra\Sheldon Axler - Linear Algebra Done Right-Springer (1997).pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 3
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 575.865
+		PageNo = 7
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 302 85 1615 1080
+		ShowToc = false
+		SidebarDx = 0
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = D:\Book\Calculus\Vector Calculas MIT.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = 104.701 33.3006
+		PageNo = 4
+		Zoom = 100
+		Rotation = 0
+		WindowState = 1
+		WindowPos = 498 23 721 1080
+		ShowToc = false
+		SidebarDx = 0
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = D:\Book\Berkeley problems in Mathematics.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 3.0355
+		PageNo = 14
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 1
+		WindowPos = 498 23 721 1080
+		ShowToc = false
+		SidebarDx = 0
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = D:\Book\IIEST Shibpur\1st sem\linear and abstract algebra\Linear Algebra and Abstact Algebra (Syllabus).pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 1
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -0.23952
+		PageNo = 1
+		Zoom = 125
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 0 0 0 0
+		ShowToc = false
+		SidebarDx = 0
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = D:\Book\Online_Admission_Form.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = true
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 384.148
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 508 -11 721 1080
+		ShowToc = false
+		SidebarDx = 0
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = D:\Book\Calculus\basics of real analysis MIT .pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = true
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 753.301
+		PageNo = 2
+		Zoom = 100
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 508 -11 721 1080
+		ShowToc = false
+		SidebarDx = 0
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = D:\Book\Schaum's Outline of Theory and Problems of Differential and Integral Calculus, Third Edition ( PDFDrive ).pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = true
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -0.371251 -0.371251
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 1
+		WindowPos = 498 23 721 1080
+		ShowToc = false
+		SidebarDx = 0
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = D:\Book\Analysis\Brown Churchill complex analysis.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = true
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 32.2157
+		PageNo = 78
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 191 55 721 1080
+		ShowToc = false
+		SidebarDx = 0
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = D:\Book\Analysis\CV-bookfi.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = true
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -0.34374
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 1
+		WindowPos = 191 55 721 1080
+		ShowToc = false
+		SidebarDx = 0
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = d:\Book\Note_LaTeX\linear_algebra\linear_note.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = true
+		OpenCount = 1
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = 32.8493 571.922
+		PageNo = 1
+		Zoom = 66.67
+		Rotation = 0
+		WindowState = 1
+		WindowPos = 1284 0 644 1030
+		ShowToc = false
+		SidebarDx = 0
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+]
+SessionData [
+]
+TimeOfLastUpdateCheck = 0 0
+OpenCountWeek = 614
+
+# Settings below are not recognized by the current version

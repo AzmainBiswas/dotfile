@@ -1,0 +1,14 @@
+#!/bin/sh
+while read file
+do
+        case "$1" in
+        "d")
+                mv "$file" ~/.trash ;;
+        "c")
+                echo -n "$file" | xclip -selection clipboard ;;
+        "w")
+                nitrogen --save --set-zoom-fill "$file" ;;
+	"p")
+		cat $file | xclip -selection clipboard -t image/png ;;
+        esac
+done

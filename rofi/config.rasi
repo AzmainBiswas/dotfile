@@ -1,0 +1,114 @@
+configuration {
+  show-icons: true;
+  icon-theme: "Papirus";
+  display-drun: " ";
+  display-run: " ";
+  display-window: " ";
+  display-combi: "combi";
+}
+
+@theme "/dev/null"
+
+* {
+    /* Dracula theme colour palette */
+    drac-bgd: #282a36;
+    drac-cur: #44475a;
+    drac-fgd: #f8f8f2;
+    drac-cmt: #6272a4;
+    drac-cya: #8be9fd;
+    drac-grn: #50fa7b;
+    drac-ora: #ffb86c;
+    drac-pnk: #ff79c6;
+    drac-pur: #bd93f9;
+    drac-red: #ff5555;
+    drac-yel: #f1fa8c;
+
+  font: "Jetbrains Mono 16";
+
+    foreground: @drac-fgd;
+    background-color: @drac-bgd;
+    active-background: @drac-pnk;
+    urgent-background: @drac-red;
+    
+    selected-background: @active-background;
+    selected-urgent-background: @urgent-background;
+    selected-active-background: @active-background;
+    separatorcolor: @active-background;
+    bordercolor: #6272a4;
+
+   }
+
+* {
+  bg: @drac-bgd;
+  bg-alt: @drac-cur;
+
+  fg: @drac-fgd;
+  fg-alt: #787c99;
+
+  background-color: @bg;
+  
+  border: 0;
+  margin: 0;
+  padding: 2;
+  spacing: 0;
+}
+
+window {
+    
+    width:   50%;
+    children:   [mainbox];
+    border: 2;
+    border-radius: 3;
+    border-color: @drac-pnk;
+    padding: 5;
+}
+
+element {
+  padding: 8 0;
+  text-color: @fg-alt;
+}
+
+element selected {
+  text-color: @drac-pnk;
+}
+
+element-text {
+  background-color: inherit;
+  text-color: inherit;
+  vertical-align: 0.5;
+}
+
+element-icon {
+  size: 40;
+}
+
+entry {
+  background-color: @bg-alt;
+  padding: 12;
+  text-color: @fg;
+}
+
+inputbar {
+  children: [prompt, entry];
+}
+
+listview {
+  padding: 8 12;
+  background-color: @bg;
+  columns: 2;
+  lines: 10;
+}
+
+mainbox {
+  background-color: @bg;
+  children: [inputbar, listview];
+}
+
+prompt {
+  background-color: @bg-alt;
+  enabled: true;
+  padding: 12 0 0 12;
+  text-color: @fg;
+}
+
+/* vim: ft=sass

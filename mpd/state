@@ -1,0 +1,46 @@
+sw_volume: 75
+audio_device_state:1:pulse audio
+audio_device_state:1:toggle_visualizer
+state: stop
+current: 31
+random: 0
+repeat: 0
+single: 0
+consume: 0
+crossfade: 0
+mixrampdb: 0.000000
+mixrampdelay: -1.000000
+playlist_begin
+0:bengali/Aabar_Bachhor_Kuri_Pore__Vol__1/Porashonaye_Jalanjoli.mp3
+1:bengali/Aabar_Bachhor_Kuri_Pore__Vol__1/Dhandar_Theke_Jotil_Tumi.mp3
+2:bengali/Aabar_Bachhor_Kuri_Pore__Vol__1/Elo_Ki_E_Asomoy.mp3
+3:bengali/Aabar_Bachhor_Kuri_Pore__Vol__1/Kotha_Dayo_Bondhu.mp3
+4:bengali/Aabar_Bachhor_Kuri_Pore__Vol__1/Aami_Dan_Dike_Roye.mp3
+5:bengali/Aabar_Bachhor_Kuri_Pore__Vol__1/Aakashe_Chharano_Megher_Kachakachi.mp3
+6:bengali/Aabar_Bachhor_Kuri_Pore__Vol__1/Prithibi_Ta_Naki_Chhoto_Hote_Hote.mp3
+7:bengali/Aabar_Bachhor_Kuri_Pore__Vol__1/Ghore_Pherar_Gaan.mp3
+8:bengali/Aabar_Bachhor_Kuri_Pore__Vol__1/Cricket.mp3
+9:bengali/Aabar_Bachhor_Kuri_Pore__Vol__1/Sono_Sudhijon.mp3
+10:bengali/Aabar_Bachhor_Kuri_Pore__Vol__1/Taakey_Joto_Tarai_Dure.mp3
+11:bengali/Aabar_Bachhor_Kuri_Pore__Vol__1/Sobai_To_Insan.mp3
+12:bengali/Aabar_Bachhor_Kuri_Pore__Vol__1/Sat_Tala_Bari.mp3
+13:bengali/Baishe_Srabon/Ekbar_Bol.mp3
+14:bengali/Baishe_Srabon/Gobhire_Jao_-_Male.mp3
+15:bengali/Baishe_Srabon/Gobhire_Jao_-_Female.mp3
+16:bengali/Baishe_Srabon/Je_Kawta_Din_-_Male.mp3
+17:bengali/Baishe_Srabon/Je_Kawta_Din_-_Duet.mp3
+18:bengali/Baishe_Srabon/Maati_Khunre.mp3
+19:english/13_Reason_Why_-_All_Songs_/The_Night_We_Met__feat__Phoebe_Bridgers_.mp3
+20:english/13_Reason_Why_-_All_Songs_/High.mp3
+21:english/Post Malone - Twelve Carat Toothache (2022) Mp3 320kbps [PMEDIA] ⭐️/01. Reputation.mp3
+22:english/Post Malone - Twelve Carat Toothache (2022) Mp3 320kbps [PMEDIA] ⭐️/02. Cooped Up.mp3
+23:english/Post Malone - Twelve Carat Toothache (2022) Mp3 320kbps [PMEDIA] ⭐️/03. Lemon Tree.mp3
+24:english/Post Malone - Twelve Carat Toothache (2022) Mp3 320kbps [PMEDIA] ⭐️/07. Insane.mp3
+25:english/Post Malone - Twelve Carat Toothache (2022) Mp3 320kbps [PMEDIA] ⭐️/14. New Recording 12, Jan 3, 2020.mp3
+26:english/Post Malone - Twelve Carat Toothache (2022) Mp3 320kbps [PMEDIA] ⭐️/13. One Right Now.mp3
+27:english/Queen – A Night At The Opera (Deluxe Remastered Version)/CD 1/Queen - Death On Two Legs (Dedicated To...).mp3
+28:english/Queen – A Night At The Opera (Deluxe Remastered Version)/CD 2/Queen - Bohemian Rhapsody (Operatic Section _ 2011 A Cappella Mix).mp3
+29:english/13_Reason_Why_-_All_Songs_/Miss_U.mp3
+30:english/Charli XCX - Charli [320]/01. Next Level Charli.mp3
+31:english/Charli XCX - Charli [320]/02. Gone.mp3
+playlist_end

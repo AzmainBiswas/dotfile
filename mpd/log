@@ -1,0 +1,8 @@
+Aug 14 18:05 : exception: Failed to open '/home/azmain/.config/mpd/state': No such file or directory
+Aug 14 18:05 : exception: inotify_add_watch() has failed: No such file or directory
+Aug 14 18:05 : exception: Failed to open '/home/azmain/.config/mpd/state': No such file or directory
+Aug 14 18:05 : exception: inotify_add_watch() has failed: No such file or directory
+Aug 14 18:06 : exception: Failed to open '/home/azmain/.config/mpd/state': No such file or directory
+Aug 14 18:06 : exception: Failed to open '/home/azmain/.config/mpd/state': No such file or directory
+Aug 14 18:07 : exception: Failed to open '/home/azmain/.config/mpd/state': No such file or directory
+Aug 14 18:12 : exception: Failed to commit /home/azmain/.config/mpd/state: File exists
