@@ -47,11 +47,7 @@ return require ('packer').startup(function(use)
     --beter syntex highlight --
     use "nvim-treesitter/nvim-treesitter"
 
-    --bracket auto complete
-    --use 'rstacruz/vim-closer'
-    
     -- compliction
-    use {'neoclide/coc.nvim', branch = 'release'}
     use {
 	    "windwp/nvim-autopairs",
         config = function() require("nvim-autopairs").setup {} end
@@ -71,3 +67,4 @@ return require ('packer').startup(function(use)
     use {'dracula/vim', as = 'dracula'}
     use "EdenEast/nightfox.nvim"
     end)
+

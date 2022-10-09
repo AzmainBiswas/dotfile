@@ -50,13 +50,11 @@ o.history = 50
 o.splitright = true
 o.splitbelow = true
 
--- Preserve view while jumping
-o.jumpoptions = 'view'
 
 -- spell checking
-vim.o.spell = true
-vim.o.spelllang = "en_us"
+o.spell = true
+o.spelllang = "en_us"
 --nodejs provider of
-vim.g.loaded_node_provider = 0
+g.loaded_node_provider = 0
 --purn suport desable
-vim.g.loaded_purl_provider = 0
+g.loaded_purl_provider = 0
