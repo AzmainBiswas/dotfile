@@ -52,8 +52,12 @@ return require ('packer').startup(function(use)
 	    "windwp/nvim-autopairs",
         config = function() require("nvim-autopairs").setup {} end
     }    
-    use 'rafcamlet/coc-nvim-lua'
-    
+    use 'neovim/nvim-lspconfig' -- Configurations for Nvim LSP
+    use 'hrsh7th/cmp-nvim-lsp'
+    use 'hrsh7th/cmp-buffer'
+    use 'hrsh7th/cmp-path'
+    use 'hrsh7th/cmp-cmdline'
+    use 'hrsh7th/nvim-cmp'
     --spell check
     use 'inkarkat/vim-SpellCheck'
     use 'inkarkat/vim-ingo-library'
@@ -62,7 +66,6 @@ return require ('packer').startup(function(use)
     --tatex
     use 'lervag/vimtex'
     use 'SirVer/ultisnips'
-    
     -- colorscheme
     use {'dracula/vim', as = 'dracula'}
     use "EdenEast/nightfox.nvim"
