@@ -1,4 +1,4 @@
 require('plugins')
 require('keybinds')
 require('settings')
-require('colorscheme.duskfox')
+require('colorscheme.dracula')

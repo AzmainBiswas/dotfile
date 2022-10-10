@@ -4,8 +4,8 @@ import:
 
 window:
   padding:
-    x: 15
-    y: 15
+    x: 20
+    y: 20
 
   class:
     # Application instance name
@@ -15,13 +15,13 @@ window:
 
   dimensions:
     columns: 150
-    lines: 30
-
+    lines: 40
+  opacity: 0.9
+  decorations: none
 scrolling:
   history: 50000
   multiplier: 3
 
-window.opacity: 0.8
 
 # Font configuration
 font:
@@ -40,7 +40,7 @@ font:
     style: Bold Italic
 
   # Point size
-  size: 14.0
+  size: 16.0
 draw_bold_text_with_bright_colors: true
 
 
